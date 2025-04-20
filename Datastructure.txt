@@ -1,8 +1,5 @@
 Predicting brain age using machine learning algorithms: A comprehensive evaluation
 
-
-IEEE Journal of Biomedical and Health Informatics,Volume:26,Issue:4,Issue Date:April.2022
-
 Brain age, estimation, machine learning,algorithms, regression, T1-weighted MRI.
 
 Predicting_Brain_Age
