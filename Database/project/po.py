@@ -1,0 +1,2 @@
+django-admin startproject resume_builder
+cd resume_builder
