@@ -12,6 +12,7 @@ This project leverages Machine Learning to predict whether a person's brain heal
 - mysql
 - httpd
 - brew
+---
 
 🔧 Required Packages
 Install all required packages via pip:
